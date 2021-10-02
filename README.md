@@ -148,7 +148,8 @@ Tool  |   Description |
 
 ### OSINT Tools
 
-| Tool  |   Description |
+Tool  |   Description |
+
 |<a href="https://github.com/umair9747/vichiti">Vichiti</a>|An OSINT focused tool made with Nodejs!|
 |---|---|
 |---|---|
