@@ -107,7 +107,7 @@ Tool  |   Description |
 ### Web Exploitation Tools
 
 Tool  |   Description |
-|<a href="https://github.com/umair9747/Archer">|A tool to check for response status codes with ease|
+|<a href="https://github.com/umair9747/Archer">Archer</a>|A tool to check for response status codes with ease|
 |---|---|
 |---|---|
 
