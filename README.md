@@ -55,12 +55,16 @@ Tool  |   Description |
 |---|---|
 |---|---|
 
+**[⬆ Back to Index](#index)**
+
 ### Information Gathering Tools
 
 Tool  |   Description |
 |---|---|
 |---|---|
 |---|---|
+
+**[⬆ Back to Index](#index)**
 
 ### Network Tools
 
@@ -69,12 +73,16 @@ Tool  |   Description |
 |---|---|
 |---|---|
 
+**[⬆ Back to Index](#index)**
+
 ### Wireless Attacks Tools
 
 Tool  |   Description |
 |---|---|
 |---|---|
 |---|---|
+
+**[⬆ Back to Index](#index)**
 
 ### Network Vulnerability Scanners
 
@@ -83,12 +91,16 @@ Tool  |   Description |
 |---|---|
 |---|---|
 
+**[⬆ Back to Index](#index)**
+
 ### Exploitation Tools
 
 Tool  |   Description |
 |---|---|
 |---|---|
 |---|---|
+
+**[⬆ Back to Index](#index)**
 
 ### Web Proxies
 
@@ -97,6 +109,8 @@ Tool  |   Description |
 |---|---|
 |---|---|
 
+**[⬆ Back to Index](#index)**
+
 ### Web Vulnerability Scanners
 
 Tool  |   Description |
@@ -104,12 +118,16 @@ Tool  |   Description |
 |---|---|
 |---|---|
 
+**[⬆ Back to Index](#index)**
+
 ### Web Exploitation Tools
 
 Tool  |   Description |
+|---|---|
 |<a href="https://github.com/umair9747/Archer">Archer</a>|A tool to check for response status codes with ease|
 |---|---|
-|---|---|
+
+**[⬆ Back to Index](#index)**
 
 ### Instrusion Detecting Tools
 
@@ -118,12 +136,16 @@ Tool  |   Description |
 |---|---|
 |---|---|
 
+**[⬆ Back to Index](#index)**
+
 ### Sniffing and Spoofing
 
 Tool  |   Description |
 |---|---|
 |---|---|
 |---|---|
+
+**[⬆ Back to Index](#index)**
 
 ### Password Cracking Tools
 
@@ -132,12 +154,16 @@ Tool  |   Description |
 |---|---|
 |---|---|
 
+**[⬆ Back to Index](#index)**
+
 ### DDoS Tools
 
 Tool  |   Description |
 |---|---|
 |---|---|
 |---|---|
+
+**[⬆ Back to Index](#index)**
 
 ### Rootkit Detectors
 
@@ -146,13 +172,16 @@ Tool  |   Description |
 |---|---|
 |---|---|
 
+**[⬆ Back to Index](#index)**
+
 ### OSINT Tools
 
 Tool  |   Description |
-
+|---|---|
 |<a href="https://github.com/umair9747/vichiti">Vichiti</a>|An OSINT focused tool made with Nodejs!|
 |---|---|
-|---|---|
+
+**[⬆ Back to Index](#index)**
 
 ### Social Engineering Tools
 
@@ -161,12 +190,16 @@ Tool  |   Description |
 |---|---|
 |---|---|
 
+**[⬆ Back to Index](#index)**
+
 ### Maintaining Access
 
 Tool  |   Description |
 |---|---|
 |---|---|
 |---|---|
+
+**[⬆ Back to Index](#index)**
 
 ### Stress Testing
 
@@ -175,12 +208,16 @@ Tool  |   Description |
 |---|---|
 |---|---|
 
+**[⬆ Back to Index](#index)**
+
 ### Forensics Tools
 
 Tool  |   Description |
 |---|---|
 |---|---|
 |---|---|
+
+**[⬆ Back to Index](#index)**
 
 ### Debuggers
 
@@ -189,12 +226,16 @@ Tool  |   Description |
 |---|---|
 |---|---|
 
+**[⬆ Back to Index](#index)**
+
 ### Reverse Engineering
 
 Tool  |   Description |
 |---|---|
 |---|---|
 |---|---|
+
+**[⬆ Back to Index](#index)**
 
 ### Windows Utilities
 
@@ -203,12 +244,16 @@ Tool  |   Description |
 |---|---|
 |---|---|
 
+**[⬆ Back to Index](#index)**
+
 ### Linux Utilities
 
 Tool  |   Description |
 |---|---|
 |---|---|
 |---|---|
+
+**[⬆ Back to Index](#index)**
 
 ### MacOS Utilities
 
@@ -217,12 +262,16 @@ Tool  |   Description |
 |---|---|
 |---|---|
 
+**[⬆ Back to Index](#index)**
+
 ### Mobile Pentesting Tools
 
 Tool  |   Description |
 |---|---|
 |---|---|
 |---|---|
+
+**[⬆ Back to Index](#index)**
 
 ### Hardware Hacking
 
@@ -231,9 +280,13 @@ Tool  |   Description |
 |---|---|
 |---|---|
 
+**[⬆ Back to Index](#index)**
+
 ### Reporting Tools
 
 Tool  |   Description |
 |---|---|
 |---|---|
 |---|---|
+
+**[⬆ Back to Index](#index)**
