@@ -1,26 +1,12 @@
-<div align='center'>
+<div align='center'> 
 
-<img src="logo.png" alt="infosec-arsenal" height="200" width="200"> <br>
-
-# INFOSEC ARSENAL  <br>
-
-<img src="https://img.shields.io/badge/For-Windows%20%7C%20Linux%20%7C%20Mac%20%7C%20Termux-yellow">
-<img src="https://img.shields.io/badge/RED%20TEAM-red">
-<img src="https://img.shields.io/badge/BLUE%20TEAM-blue"><br>
-
-<a href="https://github.com/umair9747"><img src="https://img.shields.io/badge/-Umair9747-000000?style=flat&logo=Github&logoColor=white"></a>
-<a href="https://github.com/thehackingsage"><img src="https://img.shields.io/badge/-Mr.SAGE-000000?style=flat&logo=Github&logoColor=white"></a>
-<br>
-
+# Infosec Arsenal
 *A repo which contains the best tools which you can use in Infosec!*
+</div> <br>
 
-<br>
-    
-*Please Read [Contributing Guide](CONTRIBUTING.md) before opening a Pull Request.*
+> Please *Read [Contributing Guide](CONTRIBUTING.md) before opening a Pull Request.*
 
-</div>
-
-### Categories :
+### Index
 
 - [Infosec Arsenal](#index)
     + [Distributions](#distributions)
@@ -59,7 +45,6 @@ Tool  |   Description |
 |---|---|
 |   [Kali Linux](https://kali.org)  |  Kali Linux is a Debian-derived Linux distribution designed for digital forensics and penetration testing.  |
 |   [ParrotSec OS](https://parrotsec.org/)  |  Distribution similar to Kali, with multiple architectures with 100 of Hacking Tools.  |
-|---|---|
 
 **[⬆ Back to Index](#index)**
 
