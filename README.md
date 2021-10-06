@@ -20,7 +20,7 @@
 
 </div>
 
-### Index :
+### Index
 
 - [Infosec Arsenal](#index)
     + [Distributions](#distributions)
